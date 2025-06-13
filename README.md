@@ -1,4 +1,4 @@
-# Node.js Demo Application
+# Payment Portal Demo Application
 
 This is a simple Node.js application demonstrating the use of Express.js for building a RESTful API with user authentication and basic user management features.
 
